@@ -1,1 +1,3 @@
 # reporta-covid
+
+ajustes
